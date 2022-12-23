@@ -1,6 +1,13 @@
 # Project Name - Employee-Attrition-Analytics-and-Prediction
 
-* Analyzed the dataset, performed Exploratory Data Analysis and applied 3 classification algorithms to build a binary classification model.
+* This is a fictional dataset created by the data scientists at IBM. It consists of parameters that could help in understanding the reasons behind an employee's decision to leave their current organization, and can also be applied to predict employee attrition.
+
+* Steps involved in this project-
+    - Exploratory Data Analysis 
+    - Data Cleaning and Transformation
+    - Model Building
+    - Hyper-parameter Tuning
+    - Evaluation of the models
 
 ## Dataset Description
 
