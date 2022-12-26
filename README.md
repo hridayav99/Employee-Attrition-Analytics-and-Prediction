@@ -28,7 +28,7 @@
     4. 'Master'
     5. 'Doctor'
  
- 4. EducationField - Area of education.
+ 4. Education Field - Area of education.
  5. Environment Satisfaction - the level of work environment satisfaction.
  
     1. 'Low'
@@ -72,14 +72,15 @@
    * Numeric Features -
    1. Age - age of the employee.
    2. Distance from home- how far the employee lives from office.
-   3. Monthly Income
+   3. Monthly Income - monthly income of an employee.
    4. Number of Companies Worked 
-   5. Total Working Years
+   5. Total Working Years - total number of years worked in the company.
    6. Years at company- total number of years worked at the company.
    7. Years in current role - total number of years working in current role.
-   8. Years since last promotion
-   9. Years with current manager
+   8. Years since last promotion - number of years since last promotion.
+   9. Years with current manager - number of years worked with current manager.
    10. Training times last year - number of trainings received in the previous year.
+   11. Percent Salary Hike - % increase in salary
    
  ## Exploratory Data Analysis (EDA)
  
