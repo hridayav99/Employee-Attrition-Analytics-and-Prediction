@@ -1,6 +1,6 @@
-# Project Name - Employee-Attrition-Analytics-and-Prediction
+# Project Name - Employee Attrition Analytics and Prediction
 
-* This is a fictional dataset created by the data scientists at IBM. It consists of parameters that could help in understanding the reasons behind an employee's decision to leave their current organization, and can also be applied to predict employee attrition.
+* This is a fictional dataset created by the data scientists at IBM. It consists of parameters that could help in understanding the reasons behind an employee's decision to leave their current organization, and can also be applied to prevent futher attrition.
 
 * Steps involved in this project-
     - Exploratory Data Analysis 
@@ -84,4 +84,17 @@
    
  ## Exploratory Data Analysis (EDA)
  
+ The target variable is imbalanced, the data entries for attrition is around 1/6th of the total entries.
+ 
+ <img src = "https://user-images.githubusercontent.com/105280450/209526353-a5e1556c-f10f-4b1b-a12c-f83fb6d895c5.png" height = 350 >
+ 
+ The EDA process is further divided into univariate and bivariate analysis.
+ 
+ 1. Univariate Analysis 
+
+    * 
+ 
+ 
+
+    
  
