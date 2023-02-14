@@ -123,7 +123,7 @@ Here are some insights from the dataset-
   #### 1. There is a correlation between monthly income and attrition rate; employees with lower incomes are the ones contributing to the attrition.
   #### 2. In addition, it can be inferred that employees with a higher number of work experience have continued to stay with the organization.
   #### 3. Similarly, most employees who have worked for 3 years or more with the organization are still working there.
-  #### 4. Factors such as travel distance, salary hike, and number of years since last promotion do not provide much inference as the distrubutions are almost the same for both groups.
+  #### 4. Factors such as travel distance, salary hike, and number of years since last promotion do not provide much inference as the distributions are almost the same for both groups.
   
 ## Data Cleaning and Transformation
 
