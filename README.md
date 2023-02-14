@@ -127,7 +127,7 @@ Here are some insights from the dataset-
   
 ## Data Cleaning and Transformation
 
-   * Some of the imput features were redundant and hence were dropped from the dataset. 
+   * Some of the input features were redundant and hence were dropped from the dataset. 
    * To avoid data leakage, the dataset was divided into train,validation and test sets (60-20-20 split).
    * Categorical features were encoded to numeric form using encoding techniques such as one hot encoder.
    * As the target variable is not balanced, a combination of oversampling and undersampling was applied on the train set.
