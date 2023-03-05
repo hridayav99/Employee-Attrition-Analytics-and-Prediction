@@ -111,7 +111,7 @@ Here are some insights from the dataset-
     <img src = "https://user-images.githubusercontent.com/105280450/209545171-dedbc88a-9035-4e38-89a6-a22f3a3a4cf0.png" height =350>  <img src = "https://user-images.githubusercontent.com/105280450/209545445-97c9cabd-97af-44f0-999e-f6f95b8fde8e.png" height=350>
 
    
-    * Around 2/5th of the employees have worked overtime and most employees have a stable work life balance.
+    * Around 1/3rd of the employees have worked overtime and most employees have a stable work life balance.
     
     <img src = "https://user-images.githubusercontent.com/105280450/209545711-b12d9a99-252c-45e5-bfe6-6eca17222d70.png" height =350> <img src = "https://user-images.githubusercontent.com/105280450/209545764-c2008456-2d69-4ab9-9720-680d8cf08fba.png" height =350>
 
